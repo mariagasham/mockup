@@ -1,0 +1,157 @@
+.main {
+    background-color:black;
+    display: flex;
+    justify-content: space-between;
+}
+ .leftdiv{
+        padding-top: 5px;
+         padding-left: 5px;
+ }
+ .rightdiv{
+    padding-top: 5px;
+ }
+ .treza{
+     background-color: black;
+     color:orangered;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+ }
+ Ol{
+    display: flex;
+    list-style-type: none;
+    }
+li{
+        padding-right: 10px;
+    }
+ button{
+        background-color: red;
+    }
+.parent{
+    background-color: red;
+    display:flex ;
+    justify-content: space-between;
+     color:purple;
+}
+.fill4{
+    text-align: center;
+    background: black;
+    color: white;
+    padding:1px;
+}
+.me{
+    text-align: right;
+}
+
+h4{
+color:rgb(100, 7, 7);
+align-content:right;
+font-size: 4em;
+font-weight: bold;
+position: relative;
+z-index: 1;
+display: inline-block;
+-webkit-font-smoothing:antialiased;
+-moz-osx-font-smoothing:grayscale;
+font-family: Arial, Helvetica, sans-serif;
+}
+.tina{
+background-image: linear-gradient();
+justify-content: space-between;
+
+}
+.toy{
+    background-color:darkblue;
+}
+.tom{
+    color: darkorange;
+
+    }
+.px-2{
+     align-content:right;
+     
+}
+.be{
+    background-color: aquamarine;
+}
+
+.solo{
+    text-indent: 10%;
+    }
+
+a{
+    text-decoration-color: darkblue;
+}
+.h{
+    color:rgb(15, 15, 15);
+align-content: space-around;
+}
+.w3-animate-opacity{
+background-color: rgb(197, 187, 187);
+ background-color: red;
+   animation-name: w3-animate-opacity;
+   animation-duration: 4s;
+ 
+}
+.h{
+    background-color: chocolate;
+    color:darkblue ;
+}
+.tt{
+    table-layout: auto;
+    -o-table-baseline: initial;
+    color: crimson;
+}
+.boo{
+    background-color: chartreuse;
+}
+.mm{
+    background-color: cadetblue ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: initial;
+    font-weight: 600;
+    font-style: italic;
+    color: black
+
+}
+h8{
+    font-size-adjust: 3900;
+    color: darkblue;
+}
+.third1{
+    padding-left: 550px;
+    color: white;
+    background-color: #453b3d;
+    width: 100%;
+    height: 300px;
+}
+.gg{
+    scroll-padding-right: 550px;
+      color: white;
+    background-color: #860721;
+    width: 100%;
+    height: 300px
+}
+.third2{
+    background-color: chocolate;
+}
+.carousel-item{
+    width:60%;
+    height:10%
+}
+p{
+    font-size-adjust: 3900;
+    color: darkblue;  
+}
+.ss{
+    height:260px;
+    width:980px;
+}
+.mm{
+    height:280px;
+    width:980px;   
+}
+.nn{
+    background-color:salmon;
+}
+
+
